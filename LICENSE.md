@@ -1,4 +1,4 @@
-
+smart Script for Adobe Photoshop for macOS - non-destructive editing and batch processing offers the most advanced Adobe Photoshop for macOS script, with non-destructive editing
 
 
 
